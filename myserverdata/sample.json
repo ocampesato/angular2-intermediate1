@@ -1,0 +1,55 @@
+{
+  "employees": [
+    {
+      "id": 1000,
+      "fname": "Jane",
+      "lname": "Smith",
+      "notes": "none"
+    },
+    {
+      "id": 2000,
+      "fname": "John",
+      "lname": "Smith",
+      "notes": "none"
+    },
+    {
+      "id": 3000,
+      "fname": "Dave",
+      "lname": "Jones",
+      "notes": "none"
+    }
+  ], 
+  "posts": [
+    {
+      "id": 100,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 200,
+      "title": "pizza-maker",
+      "author": "chicago"
+    },
+    {
+      "id": 300,
+      "title": "postTitle",
+      "author": "postAuthor"
+    },
+    {
+      "id": 400,
+      "fname": "a",
+      "lname": "b",
+      "notes": "c"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

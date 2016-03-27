@@ -1,0 +1,42 @@
+{
+  "svg": [
+    {
+      "type": "ellipse",
+      "cx": "100",
+      "cy": "100",
+      "rx": "80",
+      "ry": "50",
+      "fill": "red"
+    },
+    {
+      "type": "ellipse",
+      "cx": "200",
+      "cy": "100",
+      "rx": "50",
+      "ry": "80",
+      "fill": "blue"
+    }
+  ],
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": "pizza",
+      "title": "postTitle",
+      "author": "postAuthor"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
